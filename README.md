@@ -13,6 +13,8 @@ Editor version: Pycharm 2021.3
 Linux: Ubuntu 20.04.3 LTS  
   
 ## Examples  
-![image](https://user-images.githubusercontent.com/95858490/160280498-3e639130-73b3-4f80-a929-56220de39a90.png)![image](https://user-images.githubusercontent.com/95858490/160280518-6bb53e82-e911-4cdb-80d7-2b8aea2fe101.png)
+![image](https://user-images.githubusercontent.com/95858490/160280498-3e639130-73b3-4f80-a929-56220de39a90.png)![image](https://user-images.githubusercontent.com/95858490/160280518-6bb53e82-e911-4cdb-80d7-2b8aea2fe101.png)  
+![image](https://user-images.githubusercontent.com/95858490/160280576-041198f3-fe7c-4587-9521-eb6f43c34675.png)
+
 
 
